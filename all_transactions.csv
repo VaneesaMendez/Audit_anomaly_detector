@@ -1,0 +1,561 @@
+id,date,department,requester,approver,vendor,category,amount,risk_score,risk_level,flags_text
+TXN0000,2025-01-13,Sales,EMP021,EMP004,Vendor I,Travel,1193.73,0,Clear,-
+TXN0001,2025-12-13,Sales,EMP024,EMP004,Vendor R,Office Supplies,2993.41,1,Low,Weekend transaction
+TXN0002,2025-02-17,Marketing,EMP002,EMP001,Vendor H,Marketing Spend,3049.89,0,Clear,-
+TXN0003,2025-11-29,Sales,EMP018,EMP007,Vendor R,IT Equipment,1180.16,1,Low,Weekend transaction
+TXN0004,2025-01-04,Marketing,EMP019,EMP009,Vendor N,Professional Services,1461.57,1,Low,Weekend transaction
+TXN0005,2025-06-22,Finance,EMP007,EMP025,Vendor C,IT Equipment,573.91,1,Low,Weekend transaction
+TXN0006,2025-11-06,IT,EMP028,EMP012,Vendor B,IT Equipment,2727.52,0,Clear,-
+TXN0007,2025-02-10,Procurement,EMP030,EMP013,Vendor J,Marketing Spend,4438.71,0,Clear,-
+TXN0008,2025-04-09,Sales,EMP012,EMP019,Vendor C,Office Supplies,3340.19,0,Clear,-
+TXN0009,2025-02-10,Marketing,EMP025,EMP010,Vendor D,IT Equipment,1462.07,0,Clear,-
+TXN0010,2025-07-06,Marketing,EMP021,EMP027,Vendor L,Professional Services,1126.58,1,Low,Weekend transaction
+TXN0011,2025-12-16,Sales,EMP009,EMP023,Vendor C,Marketing Spend,3211.39,0,Clear,-
+TXN0012,2025-05-06,Marketing,EMP018,EMP024,Vendor O,IT Equipment,1422.74,0,Clear,-
+TXN0013,2025-12-19,Procurement,EMP030,EMP021,Vendor H,Professional Services,4229.97,0,Clear,-
+TXN0014,2025-04-28,Finance,EMP025,EMP002,Vendor K,IT Equipment,1411.93,0,Clear,-
+TXN0015,2025-10-18,Sales,EMP007,EMP030,Vendor K,Travel,3311.65,1,Low,Weekend transaction
+TXN0016,2025-11-26,Facilities,EMP013,EMP029,Vendor E,Professional Services,784.19,0,Clear,-
+TXN0017,2025-10-03,IT,EMP024,EMP018,Vendor S,IT Equipment,4499.33,0,Clear,-
+TXN0018,2025-04-23,Marketing,EMP013,EMP012,Vendor Q,IT Equipment,545.46,0,Clear,-
+TXN0019,2025-02-26,Marketing,EMP002,EMP028,Vendor F,IT Equipment,3022.4,0,Clear,-
+TXN0020,2025-08-28,Procurement,EMP013,EMP020,Vendor I,Marketing Spend,4317.82,0,Clear,-
+TXN0021,2025-02-28,Sales,EMP001,EMP022,Vendor R,Professional Services,3866.13,0,Clear,-
+TXN0022,2025-05-31,Facilities,EMP011,EMP004,Vendor F,IT Equipment,115.9,1,Low,Weekend transaction
+TXN0023,2025-05-15,Procurement,EMP024,EMP029,Vendor F,Marketing Spend,4571.88,0,Clear,-
+TXN0024,2025-06-02,Sales,EMP028,EMP021,Vendor Q,Marketing Spend,1074.66,0,Clear,-
+TXN0025,2025-03-24,Procurement,EMP012,EMP025,Vendor Q,Office Supplies,3034.83,0,Clear,-
+TXN0026,2025-02-27,IT,EMP016,EMP001,Vendor J,Travel,383.83,0,Clear,-
+TXN0027,2025-02-10,Finance,EMP029,EMP019,Vendor P,Office Supplies,4892.12,0,Clear,-
+TXN0028,2025-03-06,Marketing,EMP018,EMP025,Vendor P,Marketing Spend,909.12,0,Clear,-
+TXN0029,2025-11-07,Facilities,EMP017,EMP028,Vendor G,Marketing Spend,3800.8,0,Clear,-
+TXN0030,2025-06-09,Facilities,EMP023,EMP007,Vendor L,IT Equipment,4508.11,0,Clear,-
+TXN0031,2025-05-07,Marketing,EMP015,EMP004,Vendor C,Professional Services,203.07,0,Clear,-
+TXN0032,2025-10-29,Marketing,EMP018,EMP008,Vendor A,Office Supplies,3568.42,0,Clear,-
+TXN0033,2025-02-04,Finance,EMP002,EMP008,Vendor K,Office Supplies,2619.36,0,Clear,-
+TXN0034,2025-09-06,Marketing,EMP009,EMP022,Vendor R,Travel,3644.43,1,Low,Weekend transaction
+TXN0035,2025-10-23,Facilities,EMP029,EMP019,Vendor H,IT Equipment,4056.74,0,Clear,-
+TXN0036,2025-02-19,Sales,EMP007,EMP004,Vendor N,Professional Services,2175.54,0,Clear,-
+TXN0037,2025-01-28,Sales,EMP015,EMP028,Vendor D,Office Supplies,2072.84,0,Clear,-
+TXN0038,2025-02-25,Marketing,EMP011,EMP026,Vendor G,Travel,2727.8,0,Clear,-
+TXN0039,2025-04-04,IT,EMP005,EMP014,Vendor O,Travel,4384.98,0,Clear,-
+TXN0040,2025-10-09,Finance,EMP003,EMP015,Vendor B,Marketing Spend,4196.54,0,Clear,-
+TXN0041,2025-05-02,Marketing,EMP003,EMP030,Vendor N,IT Equipment,2458.66,0,Clear,-
+TXN0042,2025-01-31,Marketing,EMP028,EMP013,Vendor M,Office Supplies,4928.01,0,Clear,-
+TXN0043,2025-08-21,IT,EMP009,EMP030,Vendor N,Marketing Spend,3343.17,0,Clear,-
+TXN0044,2025-04-08,IT,EMP016,EMP005,Vendor G,Office Supplies,2937.98,0,Clear,-
+TXN0045,2025-06-10,Finance,EMP018,EMP002,Vendor B,Marketing Spend,2436.26,0,Clear,-
+TXN0046,2025-09-29,Marketing,EMP030,EMP028,Vendor B,Marketing Spend,492.55,0,Clear,-
+TXN0047,2025-11-01,Finance,EMP006,EMP003,Vendor H,IT Equipment,687.44,1,Low,Weekend transaction
+TXN0048,2025-05-07,Procurement,EMP029,EMP019,Vendor T,Office Supplies,3134.97,0,Clear,-
+TXN0049,2025-10-26,Procurement,EMP014,EMP022,Vendor Q,Professional Services,4680.06,1,Low,Weekend transaction
+TXN0050,2025-06-10,Marketing,EMP007,EMP022,Vendor I,IT Equipment,741.3,0,Clear,-
+TXN0051,2025-08-23,IT,EMP021,EMP010,Vendor C,Office Supplies,2345.6,1,Low,Weekend transaction
+TXN0052,2025-02-07,Procurement,EMP019,EMP004,Vendor G,Marketing Spend,1399.48,0,Clear,-
+TXN0053,2025-02-05,Marketing,EMP030,EMP012,Vendor L,Professional Services,872.96,0,Clear,-
+TXN0054,2025-12-27,IT,EMP027,EMP018,Vendor T,Marketing Spend,138.33,1,Low,Weekend transaction
+TXN0055,2025-06-03,Sales,EMP027,EMP018,Vendor D,Travel,1395.88,0,Clear,-
+TXN0056,2025-10-11,Marketing,EMP029,EMP004,Vendor I,Professional Services,3063.67,1,Low,Weekend transaction
+TXN0057,2025-04-15,Sales,EMP023,EMP011,Vendor I,Marketing Spend,2493.81,0,Clear,-
+TXN0058,2025-01-27,Finance,EMP029,EMP030,Vendor N,Professional Services,316.03,0,Clear,-
+TXN0059,2025-03-08,Sales,EMP011,EMP025,Vendor I,Travel,3732.03,1,Low,Weekend transaction
+TXN0060,2025-08-07,Procurement,EMP018,EMP023,Vendor A,Office Supplies,468.69,0,Clear,-
+TXN0061,2025-03-18,Procurement,EMP029,EMP023,Vendor B,Professional Services,2954.3,0,Clear,-
+TXN0062,2025-03-07,Finance,EMP005,EMP014,Vendor J,Professional Services,4505.01,0,Clear,-
+TXN0063,2025-01-21,IT,EMP026,EMP028,Vendor G,Travel,3367.97,0,Clear,-
+TXN0064,2025-10-14,Facilities,EMP012,EMP025,Vendor T,Travel,4636.24,0,Clear,-
+TXN0065,2025-03-25,Marketing,EMP008,EMP028,Vendor N,Office Supplies,978.87,0,Clear,-
+TXN0066,2025-07-30,Sales,EMP030,EMP011,Vendor H,Professional Services,880.07,0,Clear,-
+TXN0067,2025-07-15,Finance,EMP023,EMP004,Vendor P,Travel,1077.91,0,Clear,-
+TXN0068,2025-06-29,IT,EMP030,EMP015,Vendor H,Travel,215.96,1,Low,Weekend transaction
+TXN0069,2025-06-18,IT,EMP007,EMP013,Vendor C,Professional Services,1820.62,0,Clear,-
+TXN0070,2025-12-14,Procurement,EMP017,EMP013,Vendor K,Office Supplies,665.17,1,Low,Weekend transaction
+TXN0071,2025-10-25,IT,EMP009,EMP006,Vendor B,Office Supplies,3023.2,1,Low,Weekend transaction
+TXN0072,2025-06-10,Facilities,EMP012,EMP024,Vendor T,Marketing Spend,666.66,0,Clear,-
+TXN0073,2025-04-08,IT,EMP029,EMP019,Vendor B,IT Equipment,108.29,0,Clear,-
+TXN0074,2025-10-03,Sales,EMP030,EMP026,Vendor G,Professional Services,2213.36,0,Clear,-
+TXN0075,2025-06-19,Procurement,EMP022,EMP030,Vendor K,Office Supplies,3626.8,0,Clear,-
+TXN0076,2025-06-08,Sales,EMP010,EMP017,Vendor N,Professional Services,2071.76,1,Low,Weekend transaction
+TXN0077,2025-03-07,Marketing,EMP010,EMP018,Vendor N,IT Equipment,3418.86,0,Clear,-
+TXN0078,2025-11-12,Procurement,EMP029,EMP006,Vendor J,IT Equipment,2784.89,0,Clear,-
+TXN0079,2025-05-27,Marketing,EMP001,EMP010,Vendor N,Marketing Spend,3072.64,0,Clear,-
+TXN0080,2025-08-15,Facilities,EMP011,EMP015,Vendor G,Marketing Spend,2418.61,0,Clear,-
+TXN0081,2025-03-28,Sales,EMP029,EMP026,Vendor C,Professional Services,2625.71,0,Clear,-
+TXN0082,2025-06-21,Finance,EMP021,EMP020,Vendor H,Professional Services,1200.74,1,Low,Weekend transaction
+TXN0083,2025-01-13,Finance,EMP007,EMP005,Vendor H,IT Equipment,3095.24,0,Clear,-
+TXN0084,2025-08-22,Facilities,EMP025,EMP003,Vendor S,Travel,3619.89,0,Clear,-
+TXN0085,2025-07-24,Marketing,EMP013,EMP016,Vendor E,Office Supplies,4474.03,0,Clear,-
+TXN0086,2025-02-24,Facilities,EMP028,EMP025,Vendor H,Travel,4040.14,0,Clear,-
+TXN0087,2025-08-26,Finance,EMP023,EMP017,Vendor R,Travel,4595.6,0,Clear,-
+TXN0088,2025-03-10,Facilities,EMP004,EMP015,Vendor Q,Marketing Spend,3017.72,0,Clear,-
+TXN0089,2025-08-15,Procurement,EMP025,EMP029,Vendor Q,IT Equipment,4169.79,0,Clear,-
+TXN0090,2025-03-23,Sales,EMP018,EMP015,Vendor P,IT Equipment,1370.04,1,Low,Weekend transaction
+TXN0091,2025-11-23,IT,EMP008,EMP027,Vendor Q,IT Equipment,3171.07,1,Low,Weekend transaction
+TXN0092,2025-02-09,Sales,EMP009,EMP015,Vendor J,Travel,1431.4,1,Low,Weekend transaction
+TXN0093,2025-10-04,Finance,EMP011,EMP029,Vendor E,Travel,1233.18,1,Low,Weekend transaction
+TXN0094,2025-04-20,Finance,EMP023,EMP005,Vendor N,IT Equipment,1721.32,1,Low,Weekend transaction
+TXN0095,2025-02-01,Marketing,EMP015,EMP014,Vendor N,IT Equipment,4533.71,1,Low,Weekend transaction
+TXN0096,2025-01-11,Procurement,EMP019,EMP023,Vendor M,IT Equipment,128.89,1,Low,Weekend transaction
+TXN0097,2025-07-19,Facilities,EMP012,EMP010,Vendor R,Marketing Spend,4019.35,1,Low,Weekend transaction
+TXN0098,2025-09-07,Marketing,EMP029,EMP008,Vendor I,IT Equipment,2479.65,1,Low,Weekend transaction
+TXN0099,2025-12-09,Sales,EMP013,EMP011,Vendor M,Travel,4218.48,0,Clear,-
+TXN0100,2025-11-15,Procurement,EMP030,EMP005,Vendor A,IT Equipment,3000.27,1,Low,Weekend transaction
+TXN0101,2025-02-12,Sales,EMP022,EMP001,Vendor N,Travel,4347.57,0,Clear,-
+TXN0102,2025-05-14,Facilities,EMP006,EMP002,Vendor K,Travel,2328.03,0,Clear,-
+TXN0103,2025-07-14,IT,EMP011,EMP025,Vendor N,Professional Services,4191.06,0,Clear,-
+TXN0104,2025-10-04,Finance,EMP016,EMP001,Vendor L,Travel,3285.71,1,Low,Weekend transaction
+TXN0105,2025-01-21,Finance,EMP025,EMP021,Vendor H,Travel,4212.22,0,Clear,-
+TXN0106,2025-05-03,Marketing,EMP020,EMP005,Vendor P,Office Supplies,2863.45,1,Low,Weekend transaction
+TXN0107,2025-12-25,IT,EMP007,EMP015,Vendor L,Travel,3068.87,0,Clear,-
+TXN0108,2025-02-28,Marketing,EMP024,EMP023,Vendor J,Office Supplies,2935.56,0,Clear,-
+TXN0109,2025-10-22,Sales,EMP030,EMP010,Vendor M,IT Equipment,4713.21,0,Clear,-
+TXN0110,2025-10-31,Sales,EMP007,EMP003,Vendor H,Office Supplies,3516.25,0,Clear,-
+TXN0111,2025-12-17,Procurement,EMP010,EMP028,Vendor D,Marketing Spend,3934.91,0,Clear,-
+TXN0112,2025-08-08,Sales,EMP012,EMP018,Vendor L,Office Supplies,2579.21,0,Clear,-
+TXN0113,2025-08-04,Facilities,EMP011,EMP001,Vendor D,IT Equipment,4807.86,0,Clear,-
+TXN0114,2025-08-24,Sales,EMP021,EMP029,Vendor E,IT Equipment,963.07,1,Low,Weekend transaction
+TXN0115,2025-05-19,Procurement,EMP017,EMP021,Vendor R,IT Equipment,2377.88,0,Clear,-
+TXN0116,2025-10-31,IT,EMP027,EMP024,Vendor K,Travel,4170.58,0,Clear,-
+TXN0117,2025-08-19,Marketing,EMP003,EMP009,Vendor O,Marketing Spend,3090.63,0,Clear,-
+TXN0118,2025-01-15,Facilities,EMP013,EMP011,Vendor K,Travel,2488.99,0,Clear,-
+TXN0119,2025-05-13,IT,EMP012,EMP026,Vendor I,Marketing Spend,3535.8,0,Clear,-
+TXN0120,2025-01-06,Procurement,EMP009,EMP018,Vendor G,Office Supplies,1282.64,0,Clear,-
+TXN0121,2025-10-12,Marketing,EMP014,EMP016,Vendor P,IT Equipment,2296.06,1,Low,Weekend transaction
+TXN0122,2025-05-31,Marketing,EMP001,EMP003,Vendor M,Travel,1600.41,1,Low,Weekend transaction
+TXN0123,2025-08-31,Procurement,EMP019,EMP012,Vendor Q,Professional Services,2184.97,1,Low,Weekend transaction
+TXN0124,2025-06-19,IT,EMP024,EMP018,Vendor O,Professional Services,1602.45,0,Clear,-
+TXN0125,2025-04-09,IT,EMP008,EMP004,Vendor D,Marketing Spend,4759.3,0,Clear,-
+TXN0126,2025-04-09,Marketing,EMP023,EMP006,Vendor P,Professional Services,3650.47,0,Clear,-
+TXN0127,2025-11-02,IT,EMP025,EMP017,Vendor D,Travel,1551.61,1,Low,Weekend transaction
+TXN0128,2025-06-04,Finance,EMP012,EMP006,Vendor R,Travel,1444.13,0,Clear,-
+TXN0129,2025-05-30,Sales,EMP002,EMP018,Vendor E,IT Equipment,602.68,0,Clear,-
+TXN0130,2025-05-26,Facilities,EMP001,EMP019,Vendor P,IT Equipment,1769.46,0,Clear,-
+TXN0131,2025-09-02,Finance,EMP002,EMP009,Vendor C,IT Equipment,2509.56,0,Clear,-
+TXN0132,2025-12-18,Finance,EMP019,EMP021,Vendor E,Travel,4074.6,0,Clear,-
+TXN0133,2025-05-08,Finance,EMP010,EMP003,Vendor R,IT Equipment,3070.96,0,Clear,-
+TXN0134,2025-04-26,Procurement,EMP026,EMP020,Vendor M,IT Equipment,4551.67,1,Low,Weekend transaction
+TXN0135,2025-10-29,Facilities,EMP010,EMP028,Vendor J,Marketing Spend,3143.03,0,Clear,-
+TXN0136,2025-02-20,Marketing,EMP020,EMP024,Vendor G,Professional Services,3336.1,0,Clear,-
+TXN0137,2025-03-30,Procurement,EMP006,EMP008,Vendor C,Travel,113.11,1,Low,Weekend transaction
+TXN0138,2025-11-01,Facilities,EMP015,EMP023,Vendor J,Office Supplies,1234.23,1,Low,Weekend transaction
+TXN0139,2025-12-26,Facilities,EMP023,EMP010,Vendor C,Travel,4627.16,0,Clear,-
+TXN0140,2025-10-29,Sales,EMP026,EMP021,Vendor G,IT Equipment,662.4,0,Clear,-
+TXN0141,2025-03-18,IT,EMP008,EMP021,Vendor E,Office Supplies,392.23,0,Clear,-
+TXN0142,2025-11-01,Sales,EMP026,EMP010,Vendor S,Professional Services,2251.85,1,Low,Weekend transaction
+TXN0143,2025-06-05,Sales,EMP015,EMP023,Vendor M,Professional Services,2552.31,0,Clear,-
+TXN0144,2025-02-11,Procurement,EMP016,EMP015,Vendor B,IT Equipment,3699.22,0,Clear,-
+TXN0145,2025-01-14,Finance,EMP020,EMP009,Vendor H,Marketing Spend,2976.9,0,Clear,-
+TXN0146,2025-12-11,IT,EMP001,EMP025,Vendor S,Office Supplies,3839.23,0,Clear,-
+TXN0147,2025-09-23,Sales,EMP006,EMP016,Vendor O,Professional Services,989.3,0,Clear,-
+TXN0148,2025-11-22,Facilities,EMP019,EMP014,Vendor C,IT Equipment,1805.01,1,Low,Weekend transaction
+TXN0149,2025-02-23,Marketing,EMP011,EMP022,Vendor K,IT Equipment,3499.0,1,Low,Weekend transaction
+TXN0150,2025-07-25,Procurement,EMP010,EMP022,Vendor B,IT Equipment,531.49,0,Clear,-
+TXN0151,2025-03-01,Facilities,EMP009,EMP011,Vendor Q,Office Supplies,3322.54,1,Low,Weekend transaction
+TXN0152,2025-07-31,Finance,EMP018,EMP015,Vendor G,Marketing Spend,1872.72,0,Clear,-
+TXN0153,2025-11-17,Facilities,EMP025,EMP016,Vendor B,Travel,1408.58,0,Clear,-
+TXN0154,2025-05-28,Facilities,EMP005,EMP030,Vendor P,Office Supplies,241.46,0,Clear,-
+TXN0155,2025-05-03,Sales,EMP021,EMP020,Vendor F,Professional Services,2799.11,1,Low,Weekend transaction
+TXN0156,2025-02-17,Marketing,EMP018,EMP014,Vendor D,IT Equipment,4740.6,0,Clear,-
+TXN0157,2025-03-20,Facilities,EMP021,EMP027,Vendor J,Marketing Spend,3556.52,0,Clear,-
+TXN0158,2025-09-05,Facilities,EMP014,EMP027,Vendor H,IT Equipment,2801.2,0,Clear,-
+TXN0159,2025-11-03,Procurement,EMP013,EMP007,Vendor E,Office Supplies,1453.61,0,Clear,-
+TXN0160,2025-08-01,IT,EMP026,EMP028,Vendor Q,Professional Services,4120.69,0,Clear,-
+TXN0161,2025-06-02,Procurement,EMP010,EMP024,Vendor S,IT Equipment,4339.78,0,Clear,-
+TXN0162,2025-09-05,IT,EMP015,EMP018,Vendor K,Marketing Spend,3838.08,0,Clear,-
+TXN0163,2025-06-14,Marketing,EMP013,EMP015,Vendor H,Marketing Spend,1976.56,1,Low,Weekend transaction
+TXN0164,2025-07-30,Finance,EMP028,EMP025,Vendor K,IT Equipment,3555.62,0,Clear,-
+TXN0165,2025-07-17,Sales,EMP026,EMP013,Vendor E,IT Equipment,4827.64,0,Clear,-
+TXN0166,2025-10-30,IT,EMP005,EMP017,Vendor D,IT Equipment,588.59,0,Clear,-
+TXN0167,2025-01-08,Sales,EMP030,EMP015,Vendor E,IT Equipment,4367.57,0,Clear,-
+TXN0168,2025-08-29,IT,EMP005,EMP003,Vendor K,Marketing Spend,3494.25,0,Clear,-
+TXN0169,2025-06-18,Sales,EMP021,EMP003,Vendor R,IT Equipment,4775.28,0,Clear,-
+TXN0170,2025-09-07,Procurement,EMP021,EMP023,Vendor B,Marketing Spend,435.26,1,Low,Weekend transaction
+TXN0171,2025-05-28,Marketing,EMP021,EMP022,Vendor C,IT Equipment,4893.85,0,Clear,-
+TXN0172,2025-12-27,Finance,EMP025,EMP021,Vendor O,Travel,3500.61,1,Low,Weekend transaction
+TXN0173,2025-01-24,IT,EMP029,EMP001,Vendor B,Professional Services,1856.47,0,Clear,-
+TXN0174,2025-05-06,Procurement,EMP014,EMP005,Vendor N,Marketing Spend,3440.82,0,Clear,-
+TXN0175,2025-11-09,Facilities,EMP006,EMP003,Vendor T,Travel,2538.57,1,Low,Weekend transaction
+TXN0176,2025-04-29,Facilities,EMP019,EMP005,Vendor I,IT Equipment,1351.1,0,Clear,-
+TXN0177,2025-08-27,IT,EMP001,EMP029,Vendor R,Travel,461.92,0,Clear,-
+TXN0178,2025-06-03,Sales,EMP012,EMP019,Vendor N,Professional Services,2338.5,0,Clear,-
+TXN0179,2025-07-16,Facilities,EMP010,EMP007,Vendor D,Travel,1968.69,0,Clear,-
+TXN0180,2025-06-01,Sales,EMP012,EMP019,Vendor J,Office Supplies,4891.93,1,Low,Weekend transaction
+TXN0181,2025-05-21,Finance,EMP022,EMP013,Vendor S,Office Supplies,4562.02,0,Clear,-
+TXN0182,2025-05-27,Marketing,EMP024,EMP016,Vendor T,Professional Services,1173.12,0,Clear,-
+TXN0183,2025-05-09,Sales,EMP007,EMP020,Vendor E,Office Supplies,4526.68,0,Clear,-
+TXN0184,2025-06-08,Facilities,EMP021,EMP002,Vendor B,Marketing Spend,1887.82,1,Low,Weekend transaction
+TXN0185,2025-06-01,IT,EMP005,EMP003,Vendor N,Travel,1083.89,1,Low,Weekend transaction
+TXN0186,2025-07-07,Procurement,EMP026,EMP018,Vendor Q,Professional Services,4169.32,0,Clear,-
+TXN0187,2025-09-04,IT,EMP009,EMP030,Vendor K,Office Supplies,2394.82,0,Clear,-
+TXN0188,2025-04-26,Sales,EMP003,EMP005,Vendor M,Marketing Spend,1892.3,1,Low,Weekend transaction
+TXN0189,2025-01-08,IT,EMP026,EMP013,Vendor R,Office Supplies,2328.45,0,Clear,-
+TXN0190,2025-12-11,IT,EMP022,EMP024,Vendor S,IT Equipment,4129.84,0,Clear,-
+TXN0191,2025-12-12,Marketing,EMP012,EMP004,Vendor P,Office Supplies,3135.78,0,Clear,-
+TXN0192,2025-11-09,Marketing,EMP018,EMP011,Vendor C,IT Equipment,4556.0,1,Low,Weekend transaction
+TXN0193,2025-07-29,Finance,EMP010,EMP021,Vendor E,Office Supplies,4736.68,0,Clear,-
+TXN0194,2025-03-01,Finance,EMP010,EMP016,Vendor H,Marketing Spend,764.75,1,Low,Weekend transaction
+TXN0195,2025-12-10,Sales,EMP015,EMP012,Vendor R,IT Equipment,2977.97,0,Clear,-
+TXN0196,2025-08-01,Sales,EMP024,EMP005,Vendor D,IT Equipment,3116.7,0,Clear,-
+TXN0197,2025-12-20,IT,EMP009,EMP002,Vendor G,IT Equipment,2279.01,1,Low,Weekend transaction
+TXN0198,2025-07-05,Finance,EMP008,EMP028,Vendor L,Marketing Spend,4518.31,1,Low,Weekend transaction
+TXN0199,2025-02-01,Facilities,EMP021,EMP012,Vendor I,Travel,4844.21,1,Low,Weekend transaction
+TXN0200,2025-08-21,Finance,EMP028,EMP027,Vendor G,Marketing Spend,4858.36,0,Clear,-
+TXN0201,2025-06-20,Marketing,EMP002,EMP026,Vendor E,Marketing Spend,1105.51,0,Clear,-
+TXN0202,2025-10-11,Marketing,EMP027,EMP025,Vendor S,Travel,4083.96,1,Low,Weekend transaction
+TXN0203,2025-03-17,Procurement,EMP008,EMP011,Vendor A,Professional Services,4306.19,0,Clear,-
+TXN0204,2025-05-09,Marketing,EMP005,EMP018,Vendor D,Office Supplies,745.84,0,Clear,-
+TXN0205,2025-05-02,Procurement,EMP012,EMP026,Vendor K,Office Supplies,953.81,0,Clear,-
+TXN0206,2025-08-04,Procurement,EMP002,EMP005,Vendor D,Office Supplies,2433.61,0,Clear,-
+TXN0207,2025-09-20,Procurement,EMP025,EMP012,Vendor D,IT Equipment,2568.81,1,Low,Weekend transaction
+TXN0208,2025-12-04,Procurement,EMP020,EMP002,Vendor J,IT Equipment,3252.37,0,Clear,-
+TXN0209,2025-09-03,Facilities,EMP001,EMP002,Vendor N,Office Supplies,2502.32,0,Clear,-
+TXN0210,2025-02-07,Finance,EMP030,EMP015,Vendor K,Marketing Spend,826.84,0,Clear,-
+TXN0211,2025-11-16,Sales,EMP005,EMP009,Vendor S,Marketing Spend,3589.55,1,Low,Weekend transaction
+TXN0212,2025-09-29,IT,EMP013,EMP020,Vendor O,Marketing Spend,3066.59,0,Clear,-
+TXN0213,2025-12-26,Finance,EMP004,EMP026,Vendor R,Travel,2207.34,0,Clear,-
+TXN0214,2025-07-31,IT,EMP029,EMP008,Vendor O,IT Equipment,2138.35,0,Clear,-
+TXN0215,2025-08-07,IT,EMP004,EMP011,Vendor I,Professional Services,4772.6,0,Clear,-
+TXN0216,2025-08-31,Finance,EMP022,EMP030,Vendor C,Office Supplies,556.83,1,Low,Weekend transaction
+TXN0217,2025-07-10,Marketing,EMP004,EMP024,Vendor R,Office Supplies,2973.68,0,Clear,-
+TXN0218,2025-12-10,Finance,EMP018,EMP011,Vendor N,Professional Services,4380.68,0,Clear,-
+TXN0219,2025-01-27,IT,EMP025,EMP014,Vendor T,Professional Services,1823.07,0,Clear,-
+TXN0220,2025-04-19,Marketing,EMP019,EMP017,Vendor P,Travel,4251.65,1,Low,Weekend transaction
+TXN0221,2025-10-12,IT,EMP012,EMP028,Vendor D,Professional Services,2913.09,1,Low,Weekend transaction
+TXN0222,2025-10-15,Procurement,EMP026,EMP014,Vendor T,Marketing Spend,228.64,0,Clear,-
+TXN0223,2025-12-22,IT,EMP030,EMP022,Vendor A,Travel,1439.02,0,Clear,-
+TXN0224,2025-06-23,IT,EMP025,EMP010,Vendor A,Travel,4362.33,0,Clear,-
+TXN0225,2025-07-25,Finance,EMP019,EMP022,Vendor E,Office Supplies,549.61,0,Clear,-
+TXN0226,2025-07-12,Facilities,EMP017,EMP007,Vendor O,Professional Services,871.31,1,Low,Weekend transaction
+TXN0227,2025-06-16,Procurement,EMP010,EMP024,Vendor T,Office Supplies,4428.38,0,Clear,-
+TXN0228,2025-11-13,Finance,EMP005,EMP006,Vendor C,Professional Services,2271.25,0,Clear,-
+TXN0229,2025-11-07,Facilities,EMP014,EMP016,Vendor N,Professional Services,1156.29,0,Clear,-
+TXN0230,2025-06-26,Facilities,EMP017,EMP004,Vendor D,Professional Services,3423.27,0,Clear,-
+TXN0231,2025-09-27,Sales,EMP019,EMP016,Vendor J,Office Supplies,1180.54,1,Low,Weekend transaction
+TXN0232,2025-01-04,Marketing,EMP020,EMP002,Vendor J,Travel,3860.01,1,Low,Weekend transaction
+TXN0233,2025-05-29,IT,EMP025,EMP009,Vendor D,Office Supplies,2537.19,0,Clear,-
+TXN0234,2025-03-08,Facilities,EMP014,EMP006,Vendor R,Travel,2551.29,1,Low,Weekend transaction
+TXN0235,2025-07-01,Finance,EMP027,EMP022,Vendor M,Office Supplies,2237.48,0,Clear,-
+TXN0236,2025-02-09,IT,EMP015,EMP030,Vendor S,IT Equipment,2909.66,1,Low,Weekend transaction
+TXN0237,2025-08-02,IT,EMP023,EMP021,Vendor D,IT Equipment,202.2,1,Low,Weekend transaction
+TXN0238,2025-11-13,Facilities,EMP011,EMP006,Vendor L,Office Supplies,2239.89,0,Clear,-
+TXN0239,2025-08-12,Procurement,EMP004,EMP008,Vendor M,Marketing Spend,485.37,0,Clear,-
+TXN0240,2025-06-23,Marketing,EMP028,EMP010,Vendor K,Travel,474.26,0,Clear,-
+TXN0241,2025-09-29,Procurement,EMP021,EMP004,Vendor G,Professional Services,1820.39,0,Clear,-
+TXN0242,2025-03-17,Marketing,EMP027,EMP021,Vendor D,Travel,1354.24,0,Clear,-
+TXN0243,2025-03-20,Sales,EMP006,EMP020,Vendor C,Travel,4761.33,0,Clear,-
+TXN0244,2025-08-26,Procurement,EMP021,EMP016,Vendor S,IT Equipment,3437.55,0,Clear,-
+TXN0245,2025-11-26,Sales,EMP029,EMP019,Vendor T,Professional Services,4334.81,0,Clear,-
+TXN0246,2025-03-19,Facilities,EMP021,EMP011,Vendor C,IT Equipment,2266.82,0,Clear,-
+TXN0247,2025-05-21,Procurement,EMP010,EMP026,Vendor B,Professional Services,2585.95,0,Clear,-
+TXN0248,2025-08-20,Finance,EMP010,EMP015,Vendor B,Professional Services,4175.31,0,Clear,-
+TXN0249,2025-02-16,Procurement,EMP003,EMP021,Vendor T,Marketing Spend,1983.96,1,Low,Weekend transaction
+TXN0250,2025-01-22,Facilities,EMP019,EMP018,Vendor S,Travel,1675.48,0,Clear,-
+TXN0251,2025-03-19,Finance,EMP016,EMP017,Vendor O,Office Supplies,4073.74,0,Clear,-
+TXN0252,2025-02-13,Procurement,EMP027,EMP011,Vendor F,Office Supplies,1313.94,0,Clear,-
+TXN0253,2025-09-25,Procurement,EMP015,EMP017,Vendor F,Professional Services,1926.97,0,Clear,-
+TXN0254,2025-07-29,IT,EMP010,EMP013,Vendor T,Office Supplies,3967.21,0,Clear,-
+TXN0255,2025-02-03,IT,EMP021,EMP011,Vendor D,Marketing Spend,3424.06,0,Clear,-
+TXN0256,2025-12-03,Procurement,EMP010,EMP009,Vendor E,Professional Services,499.36,0,Clear,-
+TXN0257,2025-06-29,IT,EMP022,EMP005,Vendor M,Travel,3015.7,1,Low,Weekend transaction
+TXN0258,2025-10-14,Facilities,EMP003,EMP010,Vendor K,Travel,3383.57,0,Clear,-
+TXN0259,2025-12-17,Procurement,EMP027,EMP024,Vendor C,IT Equipment,2591.59,0,Clear,-
+TXN0260,2025-06-08,Marketing,EMP001,EMP012,Vendor G,Professional Services,4743.57,1,Low,Weekend transaction
+TXN0261,2025-04-26,Marketing,EMP016,EMP007,Vendor E,Office Supplies,1549.38,1,Low,Weekend transaction
+TXN0262,2025-09-17,Procurement,EMP026,EMP004,Vendor Q,Office Supplies,3343.45,0,Clear,-
+TXN0263,2025-11-13,Marketing,EMP029,EMP025,Vendor T,IT Equipment,855.84,0,Clear,-
+TXN0264,2025-12-21,Procurement,EMP006,EMP027,Vendor F,IT Equipment,314.09,1,Low,Weekend transaction
+TXN0265,2025-05-02,Facilities,EMP012,EMP022,Vendor T,Professional Services,3786.72,0,Clear,-
+TXN0266,2025-04-30,Procurement,EMP026,EMP015,Vendor H,Professional Services,4831.42,0,Clear,-
+TXN0267,2025-04-10,IT,EMP026,EMP016,Vendor S,IT Equipment,2362.23,0,Clear,-
+TXN0268,2025-07-15,Procurement,EMP010,EMP025,Vendor Q,IT Equipment,4834.71,0,Clear,-
+TXN0269,2025-11-06,Marketing,EMP027,EMP007,Vendor I,Office Supplies,3241.78,0,Clear,-
+TXN0270,2025-10-11,Finance,EMP028,EMP012,Vendor Q,Office Supplies,1496.81,1,Low,Weekend transaction
+TXN0271,2025-05-20,Facilities,EMP025,EMP006,Vendor Q,Travel,4172.13,0,Clear,-
+TXN0272,2025-04-24,Facilities,EMP003,EMP030,Vendor L,Office Supplies,2132.99,0,Clear,-
+TXN0273,2025-07-11,Marketing,EMP013,EMP017,Vendor M,Office Supplies,1937.07,0,Clear,-
+TXN0274,2025-02-20,Sales,EMP001,EMP011,Vendor K,Travel,774.24,0,Clear,-
+TXN0275,2025-08-30,Sales,EMP010,EMP030,Vendor E,IT Equipment,2298.15,1,Low,Weekend transaction
+TXN0276,2025-02-10,Finance,EMP001,EMP029,Vendor I,Travel,4191.32,0,Clear,-
+TXN0277,2025-11-08,Procurement,EMP018,EMP024,Vendor N,Office Supplies,3903.25,1,Low,Weekend transaction
+TXN0278,2025-03-04,Finance,EMP008,EMP010,Vendor H,IT Equipment,3230.86,0,Clear,-
+TXN0279,2025-02-02,Finance,EMP020,EMP015,Vendor P,Marketing Spend,2726.66,1,Low,Weekend transaction
+TXN0280,2025-10-22,Marketing,EMP021,EMP017,Vendor E,Professional Services,2203.27,0,Clear,-
+TXN0281,2025-05-04,Procurement,EMP020,EMP012,Vendor N,Travel,3355.42,1,Low,Weekend transaction
+TXN0282,2025-07-04,Finance,EMP003,EMP017,Vendor Q,Marketing Spend,2585.91,0,Clear,-
+TXN0283,2025-01-11,Facilities,EMP017,EMP018,Vendor P,Office Supplies,3214.79,1,Low,Weekend transaction
+TXN0284,2025-01-09,IT,EMP012,EMP009,Vendor C,Professional Services,1281.52,0,Clear,-
+TXN0285,2025-02-23,Procurement,EMP022,EMP021,Vendor K,Travel,317.24,1,Low,Weekend transaction
+TXN0286,2025-11-26,Marketing,EMP018,EMP011,Vendor O,IT Equipment,3195.51,0,Clear,-
+TXN0287,2025-02-02,Sales,EMP026,EMP005,Vendor O,Office Supplies,1537.87,1,Low,Weekend transaction
+TXN0288,2025-04-13,Finance,EMP002,EMP026,Vendor K,Professional Services,2625.38,1,Low,Weekend transaction
+TXN0289,2025-08-31,IT,EMP027,EMP018,Vendor B,Travel,1501.94,1,Low,Weekend transaction
+TXN0290,2025-01-25,Sales,EMP028,EMP025,Vendor K,Professional Services,709.93,1,Low,Weekend transaction
+TXN0291,2025-07-24,Sales,EMP012,EMP014,Vendor O,IT Equipment,1761.28,0,Clear,-
+TXN0292,2025-12-21,Facilities,EMP006,EMP016,Vendor L,Marketing Spend,1406.93,1,Low,Weekend transaction
+TXN0293,2025-08-06,Finance,EMP003,EMP024,Vendor N,Marketing Spend,4975.98,0,Clear,-
+TXN0294,2025-05-31,IT,EMP006,EMP018,Vendor D,Office Supplies,1706.81,1,Low,Weekend transaction
+TXN0295,2025-11-05,Sales,EMP010,EMP015,Vendor N,Travel,3479.85,0,Clear,-
+TXN0296,2025-01-22,Sales,EMP012,EMP015,Vendor L,Marketing Spend,4990.94,0,Clear,-
+TXN0297,2025-01-30,Finance,EMP009,EMP021,Vendor M,Professional Services,2614.12,0,Clear,-
+TXN0298,2025-03-23,Finance,EMP024,EMP022,Vendor E,Marketing Spend,3422.64,1,Low,Weekend transaction
+TXN0299,2025-03-06,Finance,EMP015,EMP002,Vendor H,Professional Services,1874.54,0,Clear,-
+TXN0300,2025-11-06,Marketing,EMP019,EMP002,Vendor O,Professional Services,1922.87,0,Clear,-
+TXN0301,2025-10-21,Marketing,EMP025,EMP003,Vendor Q,Professional Services,2050.37,0,Clear,-
+TXN0302,2025-05-08,Finance,EMP021,EMP009,Vendor A,Travel,2545.32,0,Clear,-
+TXN0303,2025-10-15,Finance,EMP013,EMP030,Vendor I,Professional Services,3549.79,0,Clear,-
+TXN0304,2025-05-27,Sales,EMP007,EMP020,Vendor P,Travel,700.92,0,Clear,-
+TXN0305,2025-08-20,Marketing,EMP028,EMP003,Vendor O,Office Supplies,4071.51,0,Clear,-
+TXN0306,2025-12-08,IT,EMP028,EMP011,Vendor C,Marketing Spend,2756.64,0,Clear,-
+TXN0307,2025-03-22,Sales,EMP029,EMP010,Vendor F,Professional Services,2592.9,1,Low,Weekend transaction
+TXN0308,2025-03-13,Marketing,EMP004,EMP007,Vendor P,Office Supplies,1868.39,0,Clear,-
+TXN0309,2025-08-28,Procurement,EMP019,EMP012,Vendor E,Marketing Spend,4432.81,0,Clear,-
+TXN0310,2025-07-23,Sales,EMP003,EMP010,Vendor P,Marketing Spend,2112.9,0,Clear,-
+TXN0311,2025-10-22,Finance,EMP014,EMP027,Vendor E,Professional Services,3247.46,0,Clear,-
+TXN0312,2025-09-22,IT,EMP015,EMP022,Vendor E,Marketing Spend,3234.99,0,Clear,-
+TXN0313,2025-03-08,Facilities,EMP006,EMP025,Vendor Q,Office Supplies,4173.81,1,Low,Weekend transaction
+TXN0314,2025-06-05,Marketing,EMP017,EMP005,Vendor F,Professional Services,4680.22,0,Clear,-
+TXN0315,2025-09-23,IT,EMP008,EMP012,Vendor C,Professional Services,1061.88,0,Clear,-
+TXN0316,2025-03-06,Sales,EMP018,EMP009,Vendor J,Marketing Spend,2714.04,0,Clear,-
+TXN0317,2025-03-28,Procurement,EMP017,EMP021,Vendor S,Travel,938.88,0,Clear,-
+TXN0318,2025-11-06,IT,EMP020,EMP024,Vendor S,Office Supplies,4143.66,0,Clear,-
+TXN0319,2025-01-24,Sales,EMP001,EMP003,Vendor S,Professional Services,3290.54,0,Clear,-
+TXN0320,2025-08-02,Procurement,EMP025,EMP019,Vendor A,IT Equipment,4456.08,1,Low,Weekend transaction
+TXN0321,2025-11-25,IT,EMP018,EMP010,Vendor P,Travel,4042.97,0,Clear,-
+TXN0322,2025-06-02,Facilities,EMP022,EMP013,Vendor C,Office Supplies,874.59,0,Clear,-
+TXN0323,2025-08-26,Marketing,EMP014,EMP016,Vendor K,Marketing Spend,803.98,0,Clear,-
+TXN0324,2025-06-13,Sales,EMP028,EMP023,Vendor L,IT Equipment,740.75,0,Clear,-
+TXN0325,2025-10-15,Finance,EMP012,EMP017,Vendor K,Travel,2385.72,0,Clear,-
+TXN0326,2025-05-07,Marketing,EMP009,EMP015,Vendor D,Office Supplies,1522.04,0,Clear,-
+TXN0327,2025-11-12,Facilities,EMP013,EMP028,Vendor H,Travel,4086.04,0,Clear,-
+TXN0328,2025-06-10,Marketing,EMP030,EMP019,Vendor F,IT Equipment,4980.25,0,Clear,-
+TXN0329,2025-06-07,Facilities,EMP015,EMP016,Vendor A,Office Supplies,4731.64,1,Low,Weekend transaction
+TXN0330,2025-05-04,Marketing,EMP017,EMP015,Vendor S,Professional Services,338.42,1,Low,Weekend transaction
+TXN0331,2025-11-02,Sales,EMP010,EMP016,Vendor P,Professional Services,2729.78,1,Low,Weekend transaction
+TXN0332,2025-08-09,Marketing,EMP028,EMP004,Vendor I,Professional Services,3842.9,1,Low,Weekend transaction
+TXN0333,2025-07-25,Finance,EMP012,EMP002,Vendor S,Marketing Spend,1053.81,0,Clear,-
+TXN0334,2025-02-07,Facilities,EMP018,EMP010,Vendor Q,IT Equipment,3845.58,0,Clear,-
+TXN0335,2025-11-16,Sales,EMP009,EMP027,Vendor T,Office Supplies,730.45,1,Low,Weekend transaction
+TXN0336,2025-07-11,IT,EMP004,EMP013,Vendor R,Professional Services,3799.33,0,Clear,-
+TXN0337,2025-09-18,Facilities,EMP007,EMP020,Vendor Q,Office Supplies,321.99,0,Clear,-
+TXN0338,2025-06-20,Facilities,EMP005,EMP023,Vendor Q,IT Equipment,829.81,0,Clear,-
+TXN0339,2025-03-13,IT,EMP029,EMP017,Vendor T,Professional Services,896.26,0,Clear,-
+TXN0340,2025-06-03,Procurement,EMP020,EMP024,Vendor K,Marketing Spend,4158.62,0,Clear,-
+TXN0341,2025-10-16,IT,EMP018,EMP016,Vendor P,Office Supplies,1904.95,0,Clear,-
+TXN0342,2025-08-02,Procurement,EMP022,EMP004,Vendor J,Office Supplies,3024.86,1,Low,Weekend transaction
+TXN0343,2025-10-24,Procurement,EMP009,EMP021,Vendor H,Office Supplies,2959.26,0,Clear,-
+TXN0344,2025-11-19,Sales,EMP006,EMP017,Vendor T,IT Equipment,824.1,0,Clear,-
+TXN0345,2025-01-17,Procurement,EMP022,EMP008,Vendor D,Travel,192.79,0,Clear,-
+TXN0346,2025-03-19,Facilities,EMP011,EMP014,Vendor G,IT Equipment,2558.92,0,Clear,-
+TXN0347,2025-08-30,Sales,EMP020,EMP030,Vendor B,Travel,2641.55,1,Low,Weekend transaction
+TXN0348,2025-12-06,Facilities,EMP018,EMP011,Vendor Q,IT Equipment,1637.39,1,Low,Weekend transaction
+TXN0349,2025-09-30,IT,EMP006,EMP015,Vendor R,Professional Services,3411.76,0,Clear,-
+TXN0350,2025-12-15,Sales,EMP028,EMP024,Vendor I,Marketing Spend,2472.48,0,Clear,-
+TXN0351,2025-10-13,IT,EMP008,EMP009,Vendor H,Professional Services,3878.75,0,Clear,-
+TXN0352,2025-12-20,Sales,EMP023,EMP007,Vendor P,Professional Services,2451.04,1,Low,Weekend transaction
+TXN0353,2025-05-21,IT,EMP018,EMP030,Vendor D,Marketing Spend,3415.45,0,Clear,-
+TXN0354,2025-07-22,IT,EMP013,EMP029,Vendor E,Professional Services,306.13,0,Clear,-
+TXN0355,2025-06-27,Facilities,EMP023,EMP003,Vendor I,IT Equipment,1148.54,0,Clear,-
+TXN0356,2025-05-19,Procurement,EMP027,EMP018,Vendor I,Travel,635.21,0,Clear,-
+TXN0357,2025-05-03,Marketing,EMP024,EMP019,Vendor B,Marketing Spend,1205.79,1,Low,Weekend transaction
+TXN0358,2025-02-21,Facilities,EMP008,EMP002,Vendor K,IT Equipment,592.67,0,Clear,-
+TXN0359,2025-01-03,Procurement,EMP025,EMP005,Vendor F,IT Equipment,3299.17,0,Clear,-
+TXN0360,2025-09-02,Sales,EMP029,EMP016,Vendor G,Professional Services,1673.72,0,Clear,-
+TXN0361,2025-02-15,Sales,EMP021,EMP002,Vendor S,Travel,2722.25,1,Low,Weekend transaction
+TXN0362,2025-01-20,Marketing,EMP024,EMP028,Vendor N,Travel,4676.22,0,Clear,-
+TXN0363,2025-07-23,Facilities,EMP002,EMP027,Vendor F,Professional Services,4396.04,0,Clear,-
+TXN0364,2025-10-18,Procurement,EMP001,EMP010,Vendor D,Professional Services,1494.35,1,Low,Weekend transaction
+TXN0365,2025-09-26,Facilities,EMP021,EMP018,Vendor E,Marketing Spend,2393.3,0,Clear,-
+TXN0366,2025-02-27,IT,EMP007,EMP026,Vendor F,IT Equipment,3276.6,0,Clear,-
+TXN0367,2025-01-08,Sales,EMP023,EMP006,Vendor K,Professional Services,2882.13,0,Clear,-
+TXN0368,2025-03-31,Procurement,EMP025,EMP007,Vendor M,IT Equipment,2624.88,0,Clear,-
+TXN0369,2025-12-09,Finance,EMP003,EMP013,Vendor F,Travel,2439.53,0,Clear,-
+TXN0370,2025-01-04,IT,EMP030,EMP008,Vendor M,Travel,2289.0,1,Low,Weekend transaction
+TXN0371,2025-06-04,Procurement,EMP009,EMP011,Vendor S,Office Supplies,1381.61,0,Clear,-
+TXN0372,2025-05-01,Finance,EMP012,EMP023,Vendor D,IT Equipment,1603.35,0,Clear,-
+TXN0373,2025-09-15,Sales,EMP013,EMP022,Vendor J,Office Supplies,3229.69,0,Clear,-
+TXN0374,2025-11-11,Marketing,EMP010,EMP012,Vendor H,Travel,2443.09,0,Clear,-
+TXN0375,2025-11-07,IT,EMP015,EMP024,Vendor N,Marketing Spend,4572.7,0,Clear,-
+TXN0376,2025-12-07,Marketing,EMP025,EMP018,Vendor H,Marketing Spend,4378.36,1,Low,Weekend transaction
+TXN0377,2025-08-17,Procurement,EMP003,EMP017,Vendor L,Office Supplies,4594.5,1,Low,Weekend transaction
+TXN0378,2025-10-08,Procurement,EMP004,EMP002,Vendor G,Marketing Spend,2729.63,0,Clear,-
+TXN0379,2025-09-24,Facilities,EMP006,EMP011,Vendor D,Travel,3612.9,0,Clear,-
+TXN0380,2025-09-19,Facilities,EMP016,EMP003,Vendor B,IT Equipment,746.53,0,Clear,-
+TXN0381,2025-10-16,Finance,EMP014,EMP015,Vendor R,IT Equipment,3396.56,0,Clear,-
+TXN0382,2025-01-12,Facilities,EMP010,EMP024,Vendor I,Office Supplies,3754.44,1,Low,Weekend transaction
+TXN0383,2025-01-24,Facilities,EMP019,EMP003,Vendor L,Office Supplies,2751.7,0,Clear,-
+TXN0384,2025-02-05,Facilities,EMP002,EMP030,Vendor B,Professional Services,2103.45,0,Clear,-
+TXN0385,2025-11-25,Sales,EMP025,EMP005,Vendor N,Professional Services,4965.0,0,Clear,-
+TXN0386,2025-07-13,Facilities,EMP013,EMP015,Vendor C,Marketing Spend,751.65,1,Low,Weekend transaction
+TXN0387,2025-03-02,Marketing,EMP028,EMP012,Vendor R,IT Equipment,2691.33,1,Low,Weekend transaction
+TXN0388,2025-01-02,Finance,EMP024,EMP008,Vendor J,IT Equipment,3400.15,0,Clear,-
+TXN0389,2025-09-30,Facilities,EMP018,EMP014,Vendor H,Travel,2357.06,0,Clear,-
+TXN0390,2025-04-07,Sales,EMP005,EMP009,Vendor D,Office Supplies,4066.44,0,Clear,-
+TXN0391,2025-01-09,Marketing,EMP014,EMP020,Vendor G,Office Supplies,594.39,0,Clear,-
+TXN0392,2025-11-03,Sales,EMP002,EMP015,Vendor B,Travel,3728.65,0,Clear,-
+TXN0393,2025-04-30,Procurement,EMP013,EMP015,Vendor G,Office Supplies,786.66,0,Clear,-
+TXN0394,2025-10-22,IT,EMP010,EMP008,Vendor S,Marketing Spend,3885.44,0,Clear,-
+TXN0395,2025-05-02,IT,EMP027,EMP011,Vendor E,Marketing Spend,1183.11,0,Clear,-
+TXN0396,2025-02-01,Procurement,EMP010,EMP009,Vendor S,Travel,3167.37,1,Low,Weekend transaction
+TXN0397,2025-09-11,Finance,EMP014,EMP018,Vendor L,IT Equipment,3950.44,0,Clear,-
+TXN0398,2025-08-02,Facilities,EMP011,EMP023,Vendor E,Professional Services,1944.65,1,Low,Weekend transaction
+TXN0399,2025-08-31,Marketing,EMP025,EMP018,Vendor H,Professional Services,4301.95,1,Low,Weekend transaction
+TXN0400,2025-08-26,Finance,EMP005,EMP026,Vendor R,IT Equipment,4842.15,0,Clear,-
+TXN0401,2025-03-10,Facilities,EMP018,EMP017,Vendor H,Professional Services,1096.35,0,Clear,-
+TXN0402,2025-08-19,IT,EMP021,EMP003,Vendor C,Marketing Spend,3650.47,0,Clear,-
+TXN0403,2025-05-18,Facilities,EMP007,EMP002,Vendor T,Marketing Spend,293.78,1,Low,Weekend transaction
+TXN0404,2025-10-28,Sales,EMP003,EMP007,Vendor R,Travel,2449.03,0,Clear,-
+TXN0405,2025-06-20,IT,EMP028,EMP030,Vendor A,Travel,4692.08,0,Clear,-
+TXN0406,2025-09-03,Marketing,EMP024,EMP004,Vendor T,Travel,2043.5,0,Clear,-
+TXN0407,2025-06-14,IT,EMP008,EMP018,Vendor M,IT Equipment,2714.89,1,Low,Weekend transaction
+TXN0408,2025-05-14,IT,EMP012,EMP010,Vendor Q,IT Equipment,2383.42,0,Clear,-
+TXN0409,2025-08-29,IT,EMP026,EMP024,Vendor G,Professional Services,1633.32,0,Clear,-
+TXN0410,2025-04-24,Sales,EMP002,EMP019,Vendor E,Office Supplies,1377.79,0,Clear,-
+TXN0411,2025-10-24,Sales,EMP030,EMP019,Vendor N,Professional Services,846.82,0,Clear,-
+TXN0412,2025-07-14,Procurement,EMP011,EMP008,Vendor H,IT Equipment,2798.15,0,Clear,-
+TXN0413,2025-05-12,Facilities,EMP022,EMP011,Vendor P,IT Equipment,924.34,0,Clear,-
+TXN0414,2025-03-28,Marketing,EMP026,EMP012,Vendor R,IT Equipment,1001.83,0,Clear,-
+TXN0415,2025-11-25,Finance,EMP029,EMP018,Vendor Q,Office Supplies,4211.44,0,Clear,-
+TXN0416,2025-12-09,Finance,EMP003,EMP027,Vendor A,IT Equipment,773.71,0,Clear,-
+TXN0417,2025-02-04,Sales,EMP021,EMP008,Vendor E,Office Supplies,1171.73,0,Clear,-
+TXN0418,2025-01-31,Procurement,EMP015,EMP012,Vendor T,IT Equipment,3330.49,0,Clear,-
+TXN0419,2025-10-10,Facilities,EMP001,EMP018,Vendor A,Office Supplies,2694.15,0,Clear,-
+TXN0420,2025-05-27,Finance,EMP009,EMP018,Vendor Q,IT Equipment,4050.22,0,Clear,-
+TXN0421,2025-02-24,Finance,EMP030,EMP006,Vendor Q,Travel,1280.75,0,Clear,-
+TXN0422,2025-05-10,IT,EMP020,EMP017,Vendor I,IT Equipment,487.19,1,Low,Weekend transaction
+TXN0423,2025-10-17,Marketing,EMP013,EMP015,Vendor H,Professional Services,3451.8,0,Clear,-
+TXN0424,2025-12-01,Sales,EMP028,EMP003,Vendor B,Office Supplies,2085.86,0,Clear,-
+TXN0425,2025-09-01,Finance,EMP013,EMP018,Vendor A,Travel,505.16,0,Clear,-
+TXN0426,2025-11-27,IT,EMP028,EMP014,Vendor S,Office Supplies,4484.48,0,Clear,-
+TXN0427,2025-04-28,Marketing,EMP030,EMP002,Vendor S,IT Equipment,1428.37,0,Clear,-
+TXN0428,2025-12-17,IT,EMP030,EMP003,Vendor R,Marketing Spend,3324.74,0,Clear,-
+TXN0429,2025-06-11,Finance,EMP006,EMP030,Vendor G,Marketing Spend,806.54,0,Clear,-
+TXN0430,2025-07-23,Finance,EMP027,EMP023,Vendor J,Travel,2863.4,0,Clear,-
+TXN0431,2025-07-19,Sales,EMP019,EMP027,Vendor R,Professional Services,1980.85,1,Low,Weekend transaction
+TXN0432,2025-12-19,Sales,EMP024,EMP005,Vendor C,Marketing Spend,3752.74,0,Clear,-
+TXN0433,2025-02-20,Facilities,EMP012,EMP002,Vendor H,Office Supplies,1768.9,0,Clear,-
+TXN0434,2025-11-01,Facilities,EMP025,EMP020,Vendor K,Office Supplies,3207.2,1,Low,Weekend transaction
+TXN0435,2025-09-09,Marketing,EMP026,EMP015,Vendor L,Marketing Spend,4711.6,0,Clear,-
+TXN0436,2025-12-15,Procurement,EMP014,EMP006,Vendor M,Office Supplies,3883.62,0,Clear,-
+TXN0437,2025-05-07,Sales,EMP010,EMP026,Vendor C,Office Supplies,1413.06,0,Clear,-
+TXN0438,2025-11-21,Marketing,EMP013,EMP023,Vendor M,Professional Services,1867.43,0,Clear,-
+TXN0439,2025-06-07,Facilities,EMP003,EMP001,Vendor L,Professional Services,600.93,1,Low,Weekend transaction
+TXN0440,2025-08-09,Facilities,EMP003,EMP006,Vendor R,Marketing Spend,2610.96,1,Low,Weekend transaction
+TXN0441,2025-02-15,IT,EMP004,EMP001,Vendor R,Office Supplies,3024.93,1,Low,Weekend transaction
+TXN0442,2025-07-17,Finance,EMP026,EMP011,Vendor J,IT Equipment,2000.22,0,Clear,-
+TXN0443,2025-10-14,Marketing,EMP003,EMP024,Vendor S,Marketing Spend,930.96,0,Clear,-
+TXN0444,2025-03-13,IT,EMP013,EMP006,Vendor J,Professional Services,2516.31,0,Clear,-
+TXN0445,2025-08-11,IT,EMP003,EMP006,Vendor N,Professional Services,2472.73,0,Clear,-
+TXN0446,2025-05-09,Marketing,EMP003,EMP012,Vendor P,Marketing Spend,3121.68,0,Clear,-
+TXN0447,2025-03-11,IT,EMP015,EMP004,Vendor A,IT Equipment,1727.86,0,Clear,-
+TXN0448,2025-06-18,Facilities,EMP020,EMP013,Vendor K,IT Equipment,4095.83,0,Clear,-
+TXN0449,2025-11-01,Marketing,EMP028,EMP021,Vendor J,Professional Services,3055.74,1,Low,Weekend transaction
+TXN0450,2025-09-03,IT,EMP023,EMP007,Vendor F,IT Equipment,4846.75,0,Clear,-
+TXN0451,2025-12-22,Sales,EMP010,EMP024,Vendor P,Marketing Spend,3931.67,0,Clear,-
+TXN0452,2025-05-24,Facilities,EMP011,EMP013,Vendor L,Office Supplies,4667.13,1,Low,Weekend transaction
+TXN0453,2025-10-07,Marketing,EMP007,EMP019,Vendor R,Office Supplies,4769.72,0,Clear,-
+TXN0454,2025-04-18,Facilities,EMP015,EMP023,Vendor J,Office Supplies,4112.93,0,Clear,-
+TXN0455,2025-12-11,Facilities,EMP026,EMP014,Vendor E,Professional Services,1285.9,0,Clear,-
+TXN0456,2025-08-05,Facilities,EMP022,EMP005,Vendor C,IT Equipment,4954.43,0,Clear,-
+TXN0457,2025-07-25,Procurement,EMP016,EMP019,Vendor Q,IT Equipment,2763.86,0,Clear,-
+TXN0458,2025-12-26,Procurement,EMP026,EMP012,Vendor T,Office Supplies,635.91,0,Clear,-
+TXN0459,2025-12-07,IT,EMP008,EMP022,Vendor F,Marketing Spend,317.05,1,Low,Weekend transaction
+TXN0460,2025-11-28,Facilities,EMP021,EMP022,Vendor K,IT Equipment,619.13,0,Clear,-
+TXN0461,2025-04-24,Procurement,EMP004,EMP009,Vendor Q,Marketing Spend,2944.54,0,Clear,-
+TXN0462,2025-08-17,IT,EMP019,EMP008,Vendor M,IT Equipment,3884.48,1,Low,Weekend transaction
+TXN0463,2025-09-14,Marketing,EMP019,EMP023,Vendor L,Office Supplies,2465.58,1,Low,Weekend transaction
+TXN0464,2025-02-13,Finance,EMP010,EMP014,Vendor E,Professional Services,1628.26,0,Clear,-
+TXN0465,2025-04-16,Procurement,EMP015,EMP026,Vendor P,Professional Services,2433.2,0,Clear,-
+TXN0466,2025-12-23,Facilities,EMP015,EMP024,Vendor K,Office Supplies,1571.29,0,Clear,-
+TXN0467,2025-02-28,Finance,EMP026,EMP023,Vendor K,Office Supplies,3417.98,0,Clear,-
+TXN0468,2025-05-05,Procurement,EMP006,EMP030,Vendor F,Marketing Spend,884.66,0,Clear,-
+TXN0469,2025-08-25,Marketing,EMP018,EMP014,Vendor M,Travel,1013.3,0,Clear,-
+TXN0470,2025-07-22,Finance,EMP022,EMP014,Vendor T,Travel,2302.92,0,Clear,-
+TXN0471,2025-01-03,Sales,EMP014,EMP013,Vendor G,Travel,1463.89,0,Clear,-
+TXN0472,2025-02-02,Procurement,EMP023,EMP026,Vendor D,Marketing Spend,1016.1,1,Low,Weekend transaction
+TXN0473,2025-08-23,Finance,EMP011,EMP007,Vendor I,IT Equipment,2685.8,1,Low,Weekend transaction
+TXN0474,2025-11-02,Facilities,EMP021,EMP011,Vendor T,IT Equipment,2976.32,1,Low,Weekend transaction
+TXN0475,2025-08-23,Procurement,EMP012,EMP028,Vendor F,Professional Services,4601.54,1,Low,Weekend transaction
+TXN0476,2025-12-11,Marketing,EMP019,EMP003,Vendor K,Office Supplies,1269.01,0,Clear,-
+TXN0477,2025-07-11,Sales,EMP004,EMP006,Vendor E,Marketing Spend,2003.47,0,Clear,-
+TXN0478,2025-10-22,Facilities,EMP020,EMP005,Vendor N,Travel,2484.68,0,Clear,-
+TXN0479,2025-11-27,Marketing,EMP018,EMP023,Vendor R,Travel,2499.25,0,Clear,-
+TXN0480,2025-06-11,Facilities,EMP005,EMP006,Vendor T,Office Supplies,4341.06,0,Clear,-
+TXN0481,2025-03-11,Marketing,EMP001,EMP016,Vendor M,Marketing Spend,2576.65,0,Clear,-
+TXN0482,2025-12-17,Facilities,EMP016,EMP014,Vendor N,IT Equipment,2494.63,0,Clear,-
+TXN0483,2025-01-16,Marketing,EMP003,EMP019,Vendor J,Office Supplies,1446.78,0,Clear,-
+TXN0484,2025-03-28,Facilities,EMP018,EMP010,Vendor S,IT Equipment,2793.66,0,Clear,-
+TXN0485,2025-02-28,IT,EMP004,EMP019,Vendor R,Professional Services,2756.01,0,Clear,-
+TXN0486,2025-08-14,Procurement,EMP025,EMP002,Vendor G,IT Equipment,601.84,0,Clear,-
+TXN0487,2025-05-07,IT,EMP027,EMP021,Vendor B,IT Equipment,1387.79,0,Clear,-
+TXN0488,2025-02-14,Facilities,EMP028,EMP027,Vendor D,Travel,1128.4,0,Clear,-
+TXN0489,2025-12-19,IT,EMP024,EMP019,Vendor T,IT Equipment,913.31,0,Clear,-
+TXN0490,2025-04-16,Marketing,EMP005,EMP026,Vendor B,Marketing Spend,1819.0,0,Clear,-
+TXN0491,2025-10-03,Marketing,EMP009,EMP020,Vendor K,Professional Services,1517.73,0,Clear,-
+TXN0492,2025-09-21,Sales,EMP009,EMP028,Vendor D,Travel,4817.58,1,Low,Weekend transaction
+TXN0493,2025-01-31,IT,EMP026,EMP014,Vendor E,Travel,1323.42,0,Clear,-
+TXN0494,2025-05-07,Sales,EMP023,EMP011,Vendor M,IT Equipment,796.64,0,Clear,-
+TXN0495,2025-11-18,Facilities,EMP021,EMP009,Vendor M,IT Equipment,470.03,0,Clear,-
+TXN0496,2025-02-17,Facilities,EMP026,EMP029,Vendor Q,Professional Services,3504.05,0,Clear,-
+TXN0497,2025-08-21,Facilities,EMP029,EMP012,Vendor K,Marketing Spend,112.12,0,Clear,-
+TXN0498,2025-02-17,Sales,EMP025,EMP028,Vendor O,Professional Services,4265.52,0,Clear,-
+TXN0499,2025-07-23,Marketing,EMP026,EMP018,Vendor N,Travel,2524.1,0,Clear,-
+BAD-SOD-00,2025-06-15,IT,EMP005,EMP005,Vendor K,Marketing Spend,2522.77,2,Medium,"Self-approved, Weekend transaction"
+BAD-SOD-01,2025-10-17,Facilities,EMP005,EMP005,Vendor K,Office Supplies,660.8,1,Low,Self-approved
+BAD-SOD-02,2025-11-17,Facilities,EMP005,EMP005,Vendor A,Office Supplies,3753.02,1,Low,Self-approved
+BAD-SOD-03,2025-03-22,Facilities,EMP005,EMP005,Vendor O,Office Supplies,3971.43,2,Medium,"Self-approved, Weekend transaction"
+BAD-SOD-04,2025-08-08,Marketing,EMP005,EMP005,Vendor E,Professional Services,1056.42,1,Low,Self-approved
+BAD-SOD-05,2025-05-21,Finance,EMP005,EMP005,Vendor L,Professional Services,788.47,1,Low,Self-approved
+BAD-SOD-06,2025-12-07,Sales,EMP005,EMP005,Vendor F,Office Supplies,1887.2,2,Medium,"Self-approved, Weekend transaction"
+BAD-SOD-07,2025-06-06,Sales,EMP005,EMP005,Vendor H,IT Equipment,2794.2,1,Low,Self-approved
+BAD-SOD-08,2025-12-27,Finance,EMP005,EMP005,Vendor A,Travel,2168.82,2,Medium,"Self-approved, Weekend transaction"
+BAD-SOD-09,2025-03-09,Procurement,EMP005,EMP005,Vendor H,Marketing Spend,2879.94,2,Medium,"Self-approved, Weekend transaction"
+BAD-DUP-00-0,2025-03-03,Facilities,EMP023,EMP005,Vendor K,IT Equipment,532.5,2,Medium,Possible duplicate payment
+BAD-DUP-00-1,2025-03-04,Finance,EMP008,EMP013,Vendor K,Office Supplies,532.5,2,Medium,Possible duplicate payment
+BAD-DUP-01-0,2025-02-22,IT,EMP012,EMP029,Vendor D,Professional Services,3057.67,3,High,"Weekend transaction, Possible duplicate payment"
+BAD-DUP-01-1,2025-02-23,Marketing,EMP013,EMP025,Vendor D,Travel,3057.67,3,High,"Weekend transaction, Possible duplicate payment"
+BAD-DUP-02-0,2025-02-05,Procurement,EMP019,EMP001,Vendor E,Marketing Spend,2745.52,2,Medium,Possible duplicate payment
+BAD-DUP-02-1,2025-02-06,Sales,EMP006,EMP015,Vendor E,Professional Services,2745.52,2,Medium,Possible duplicate payment
+BAD-DUP-03-0,2025-07-30,Procurement,EMP022,EMP015,Vendor E,Travel,3028.51,2,Medium,Possible duplicate payment
+BAD-DUP-03-1,2025-07-31,Finance,EMP029,EMP004,Vendor E,Travel,3028.51,2,Medium,Possible duplicate payment
+BAD-DUP-04-0,2025-07-16,IT,EMP014,EMP011,Vendor S,Travel,3133.56,2,Medium,Possible duplicate payment
+BAD-DUP-04-1,2025-07-17,Marketing,EMP009,EMP021,Vendor S,Office Supplies,3133.56,2,Medium,Possible duplicate payment
+BAD-DUP-05-0,2025-11-04,Sales,EMP020,EMP010,Vendor T,Office Supplies,1368.58,2,Medium,Possible duplicate payment
+BAD-DUP-05-1,2025-11-05,Sales,EMP029,EMP010,Vendor T,Travel,1368.58,2,Medium,Possible duplicate payment
+BAD-DUP-06-0,2025-04-07,Sales,EMP013,EMP010,Vendor Q,Office Supplies,2312.12,2,Medium,Possible duplicate payment
+BAD-DUP-06-1,2025-04-08,Marketing,EMP016,EMP013,Vendor Q,Office Supplies,2312.12,2,Medium,Possible duplicate payment
+BAD-DUP-07-0,2025-02-06,Procurement,EMP029,EMP001,Vendor T,Professional Services,1343.79,2,Medium,Possible duplicate payment
+BAD-DUP-07-1,2025-02-07,IT,EMP005,EMP013,Vendor T,Marketing Spend,1343.79,2,Medium,Possible duplicate payment
+BAD-DUP-08-0,2025-12-16,Marketing,EMP025,EMP016,Vendor R,Office Supplies,1973.02,2,Medium,Possible duplicate payment
+BAD-DUP-08-1,2025-12-17,Finance,EMP019,EMP003,Vendor R,Office Supplies,1973.02,2,Medium,Possible duplicate payment
+BAD-DUP-09-0,2025-01-31,Facilities,EMP017,EMP010,Vendor B,Marketing Spend,1417.65,2,Medium,Possible duplicate payment
+BAD-DUP-09-1,2025-02-01,Facilities,EMP014,EMP023,Vendor B,IT Equipment,1417.65,3,High,"Weekend transaction, Possible duplicate payment"
+BAD-THRESH-00,2025-02-12,Procurement,EMP017,EMP021,Vendor R,Professional Services,9557.01,1,Low,Just under approval limit
+BAD-THRESH-01,2025-03-20,Procurement,EMP017,EMP009,Vendor C,Professional Services,9363.42,1,Low,Just under approval limit
+BAD-THRESH-02,2025-09-19,Procurement,EMP017,EMP030,Vendor G,Professional Services,9928.17,1,Low,Just under approval limit
+BAD-THRESH-03,2025-03-21,Procurement,EMP017,EMP018,Vendor K,Professional Services,9432.12,1,Low,Just under approval limit
+BAD-THRESH-04,2025-11-21,Procurement,EMP017,EMP025,Vendor C,Professional Services,9363.64,1,Low,Just under approval limit
+BAD-THRESH-05,2025-08-12,Procurement,EMP017,EMP024,Vendor H,Professional Services,9149.22,1,Low,Just under approval limit
+BAD-THRESH-06,2025-02-14,Procurement,EMP017,EMP030,Vendor N,Professional Services,9198.59,1,Low,Just under approval limit
+BAD-THRESH-07,2025-11-10,Procurement,EMP017,EMP020,Vendor B,Professional Services,9362.9,1,Low,Just under approval limit
+BAD-THRESH-08,2025-12-03,Procurement,EMP017,EMP024,Vendor F,Professional Services,9201.53,1,Low,Just under approval limit
+BAD-THRESH-09,2025-03-12,Procurement,EMP017,EMP023,Vendor A,Professional Services,9239.26,1,Low,Just under approval limit
+BAD-ROUND-00,2025-06-27,Procurement,EMP017,EMP026,Vendor I,Travel,3500.0,1,Low,Round number
+BAD-ROUND-01,2025-03-06,Sales,EMP025,EMP028,Vendor I,Office Supplies,2500.0,1,Low,Round number
+BAD-ROUND-02,2025-06-21,Facilities,EMP009,EMP017,Vendor C,Professional Services,4500.0,2,Medium,"Round number, Weekend transaction"
+BAD-ROUND-03,2025-11-18,Finance,EMP016,EMP015,Vendor Q,Professional Services,2500.0,1,Low,Round number
+BAD-ROUND-04,2025-09-13,Procurement,EMP006,EMP012,Vendor F,Professional Services,2500.0,2,Medium,"Round number, Weekend transaction"
+BAD-ROUND-05,2025-10-21,Sales,EMP024,EMP004,Vendor H,Marketing Spend,2500.0,1,Low,Round number
+BAD-ROUND-06,2025-01-23,Finance,EMP008,EMP002,Vendor P,Professional Services,4000.0,1,Low,Round number
+BAD-ROUND-07,2025-03-18,Marketing,EMP030,EMP028,Vendor B,Marketing Spend,4000.0,1,Low,Round number
+BAD-ROUND-08,2025-04-25,IT,EMP008,EMP014,Vendor K,Professional Services,2500.0,1,Low,Round number
+BAD-ROUND-09,2025-10-20,IT,EMP004,EMP017,Vendor B,Travel,3000.0,1,Low,Round number
+BAD-OUTLIER-00,2025-01-24,Facilities,EMP003,EMP029,Vendor O,Marketing Spend,23660.32,1,Low,Unusually high amount
+BAD-OUTLIER-01,2025-06-17,Finance,EMP018,EMP015,Vendor A,Professional Services,18689.19,1,Low,Unusually high amount
+BAD-OUTLIER-02,2025-10-16,IT,EMP024,EMP020,Vendor H,Professional Services,19639.27,1,Low,Unusually high amount
+BAD-OUTLIER-03,2025-09-10,Marketing,EMP024,EMP029,Vendor R,Marketing Spend,22604.82,1,Low,Unusually high amount
+BAD-OUTLIER-04,2025-03-19,Finance,EMP030,EMP014,Vendor A,Travel,17329.98,1,Low,Unusually high amount
+BAD-OUTLIER-05,2025-11-22,Sales,EMP029,EMP001,Vendor K,Professional Services,15014.62,2,Medium,"Unusually high amount, Weekend transaction"
+BAD-OUTLIER-06,2025-06-07,Finance,EMP007,EMP017,Vendor H,IT Equipment,19198.16,2,Medium,"Unusually high amount, Weekend transaction"
+BAD-OUTLIER-07,2025-03-14,Sales,EMP009,EMP003,Vendor B,Office Supplies,24212.74,1,Low,Unusually high amount
+BAD-OUTLIER-08,2025-07-31,Sales,EMP029,EMP012,Vendor O,Marketing Spend,24745.55,1,Low,Unusually high amount
+BAD-OUTLIER-09,2025-10-25,Finance,EMP017,EMP005,Vendor M,Office Supplies,15748.3,2,Medium,"Unusually high amount, Weekend transaction"
