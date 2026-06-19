@@ -1,3 +1,5 @@
+<img width="1846" height="671" alt="dashboard " src="https://github.com/user-attachments/assets/eafa9e36-eb12-4836-a16c-2a4e19d5b39f" />
+
 # Transaction Anomaly Checker & Risk Dashboard (Beginner-Friendly Version)
 
 A small audit analytics project, written using only basic Python (loops,
@@ -44,4 +46,4 @@ Every check is a plain `if` statement looping over the data one transaction at a
 All transactions are made up by the script for practice purposes. No real
 company or personal data is used anywhere in this project.
 
-<img width="1846" height="671" alt="dashboard " src="https://github.com/user-attachments/assets/eafa9e36-eb12-4836-a16c-2a4e19d5b39f" />
+
